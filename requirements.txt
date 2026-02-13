@@ -2,3 +2,5 @@ streamlit
 rembg
 pillow
 onnxruntime
+fastapi
+uvicorn
